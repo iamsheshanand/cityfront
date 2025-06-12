@@ -19,6 +19,8 @@ Once it starts successfully navigate to `http://localhost:3000`
 
 - If not it will show 0
 - If not valid alphabet then it will say `Please enter a letter`
+- If there is network error / incorrect url etc it will show `Network Error Please check the url http://localhost:8081`
+  - 8081 is just an example
 
 
 
